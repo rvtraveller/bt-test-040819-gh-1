@@ -1,0 +1,14 @@
+uuid: 47f45aeb-6a60-4710-9aa1-022f14ad5604
+name: bt-test-040819-gh-1
+mail: bthompson@mindgrub.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

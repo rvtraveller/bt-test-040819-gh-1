@@ -1,0 +1,14 @@
+uuid: e2ef94b3-b1c0-4b80-9e35-134dde7ce8d9
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - bthompson@mindgrub.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
